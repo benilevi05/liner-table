@@ -8,7 +8,6 @@ const tableHeaderCellStyle = { textAlign: "center", fontWeight: "bold", textDeco
 
 
 
-// const [linerNameArray, setlinerName] = useState([])
 
 const LinerTable = () => {
   const [globalList, setGlobalList] = useState(LinerList)
